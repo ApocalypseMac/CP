@@ -30,6 +30,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |Goodbye 2020      |1466|ABCDEF   |GHI    |-|
 |Global Round 13   |1494|ABCD     |EFGHI  |-|
+|718               |1517|ABCD     |EFGH   |-|
 
 ## Notes
 
