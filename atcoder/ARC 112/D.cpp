@@ -17,7 +17,7 @@ int find(int i){
 bool unionSet(int i, int j){
     int pi = find(i), pj = find(j);
     if (pi != pj){
-        if (pi < pj){
+        if (pi > pj){
             swap(pi, pj);
         }
         p[pi] = pj;
